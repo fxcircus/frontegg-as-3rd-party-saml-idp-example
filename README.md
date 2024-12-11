@@ -2,6 +2,8 @@
 
 This is a simple Node.js application that demonstrates how to implement SAML Single Sign-On (SSO) using Frontegg as the Identity Provider (IdP). The application uses the `passport-saml` library for SAML authentication.
 
+Refer to the [Frontegg IDP via SAML Guide](https://developers.frontegg.com/guides/management/frontegg-idp/via-saml) for further documentation.
+
 ## Features
 
 -  SSO authentication using SAML with Frontegg.
