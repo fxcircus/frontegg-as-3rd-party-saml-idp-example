@@ -11,7 +11,12 @@ Refer to the [Frontegg IDP via SAML Guide](https://developers.frontegg.com/guide
 
 
 ## Frontegg account Setup
-1. Login to your Frontegg account. 
+1. Login to your Frontegg account. or Signup for a Frontegg account on one of our public regions:
+    - EU ➜ https://portal.frontegg.com/signup
+    - US ➜ https://portal.us.frontegg.com/signup
+    - CA ➜ https://portal.ca.frontegg.com/signup
+    - AU ➜ https://portal.au.frontegg.com/signup
+
 2. Navigate to `Frontegg Portal ➜ [ENVIRONMENT] ➜ Authentication ➜ Hosted` and add the following URLs to the `Hosted login` list:
     ```
     http://localhost:5000/login/callback
