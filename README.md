@@ -11,7 +11,7 @@ Refer to the [Frontegg IDP via SAML Guide](https://developers.frontegg.com/guide
 
 
 ## Frontegg account Setup
-1. Login to your Frontegg account. or Signup for a Frontegg account on one of our public regions:
+1. Login to your Frontegg account, or signup for a Frontegg account on one of our public regions:
     - EU ➜ https://portal.frontegg.com/signup
     - US ➜ https://portal.us.frontegg.com/signup
     - CA ➜ https://portal.ca.frontegg.com/signup
